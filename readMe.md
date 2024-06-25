@@ -34,9 +34,9 @@ Here are some sample images you can use to test the object detection capabilitie
 1. 🏙️ Friends Tv show
 ![Friends](friendsPhoto.PNG)
 2. 🚗 Group of friends
-![People](.\test3result.PNG)
+![People](test3result.PNG)
 3. 🏠 people at 1950s
-![1950 Family](.\1950Photo.PNG)
+![1950 Family](1950Photo.PNG)
 # Hope you enjoy my app 😄
 
 
