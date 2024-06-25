@@ -32,7 +32,7 @@ After processing, you can download both the detected and blurred versions of the
 Here are some sample images you can use to test the object detection capabilities of the app. Download and upload these images to see the model in action:
 
 1. 🏙️ Friends Tv show
-![Friends](FaceDetector\friendsPhoto.PNG)
+![Friends](friendsPhoto.PNG)
 2. 🚗 Group of friends
 ![People](.\test3result.PNG)
 3. 🏠 people at 1950s
