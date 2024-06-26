@@ -76,7 +76,7 @@ def process(file):
         if detectedImage is not None:
             download_Dimage(detectedImage,"detected_image.jpg")
         if blurredImage is not None:
-            download_Dimage(blurredImage,"blurred_image.jpg") 
+            download_Bimage(blurredImage,"blurred_image.jpg") 
         return        
 process(file)
 
